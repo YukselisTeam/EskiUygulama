@@ -31,7 +31,7 @@ namespace YukselisApp
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             AnaSayfa anaSayfa = new AnaSayfa();
-            CC_Genel.Content = anaSayfa;//
+            CC_Genel.Content = anaSayfa;//2323
         }
 
         private void BTN_Siparis_Click(object sender, RoutedEventArgs e)

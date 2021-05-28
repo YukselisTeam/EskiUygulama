@@ -33,7 +33,7 @@ namespace YukselisApp
             AnaSayfa anaSayfa = new AnaSayfa();
             CC_Genel.Content = anaSayfa;//2323
 
-            MessageBox.Show("adasd");
+            MessageBox.Show("sema");
         }
 
         private void BTN_Siparis_Click(object sender, RoutedEventArgs e)

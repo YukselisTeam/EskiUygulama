@@ -9,6 +9,8 @@
       Title="anasayfa2">
 
     <Grid>
-        
+        <Button>
+            
+        </Button>
     </Grid>
 </Page>

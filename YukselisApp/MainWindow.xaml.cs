@@ -33,7 +33,7 @@ namespace YukselisApp
             AnaSayfa anaSayfa = new AnaSayfa();
             CC_Genel.Content = anaSayfa;//
 
-            MessageBox.Show("new branch");
+            MessageBox.Show("new branch 2 ");
         }
 
         private void BTN_Siparis_Click(object sender, RoutedEventArgs e)

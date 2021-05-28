@@ -28,6 +28,10 @@ namespace YukselisApp
             CC_Menu.Content = null;
 
             MessageBox.Show("new branch 2 ");
+
+            MessageBox.Show("new branch 2 ");
+
+            MessageBox.Show("new branch 2 ");
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)

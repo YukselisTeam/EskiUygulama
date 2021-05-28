@@ -26,15 +26,22 @@ namespace YukselisApp
             InitializeComponent();
 
             CC_Menu.Content = null;
+
+            MessageBox.Show("new branch 2 ");
+
+            MessageBox.Show("new branch 2 ");
+
+            MessageBox.Show("new branch 2 ");
+
+
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             AnaSayfa anaSayfa = new AnaSayfa();
-            CC_Genel.Content = anaSayfa;//sema
+            CC_Genel.Content = anaSayfa;//
 
-
-            MessageBox.Show("sema2321312");
+            MessageBox.Show("new branch 2 ");
         }
 
         private void BTN_Siparis_Click(object sender, RoutedEventArgs e)

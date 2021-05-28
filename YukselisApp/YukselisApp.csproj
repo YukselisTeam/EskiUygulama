@@ -70,7 +70,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="Anasayfa.xaml">
+    <Page Include="anasayfa2.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -82,8 +82,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Compile Include="Anasayfa.xaml.cs">
-      <DependentUpon>Anasayfa.xaml</DependentUpon>
+    <Compile Include="anasayfa2.xaml.cs">
+      <DependentUpon>anasayfa2.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>

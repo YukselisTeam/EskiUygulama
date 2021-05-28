@@ -74,6 +74,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="anaysayfa3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="KULLANICI\Pages\AnaSayfa.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -84,6 +88,9 @@
     </Page>
     <Compile Include="anasayfa2.xaml.cs">
       <DependentUpon>anasayfa2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="anaysayfa3.xaml.cs">
+      <DependentUpon>anaysayfa3.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>

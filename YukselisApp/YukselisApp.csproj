@@ -89,6 +89,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="KULLANICI\Entities\KullaniciEntities.cs" />
     <Compile Include="KULLANICI\Pages\AnaSayfa.xaml.cs">
       <DependentUpon>AnaSayfa.xaml</DependentUpon>
     </Compile>
@@ -130,9 +131,7 @@
   <ItemGroup>
     <Resource Include="KULLANICI\Resources\Login5.jpg" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="KULLANICI\Entities\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\MaterialDesignThemes.4.1.0\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.4.1.0\build\MaterialDesignThemes.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

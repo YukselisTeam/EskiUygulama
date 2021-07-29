@@ -89,6 +89,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="KULLANICI\Business\KayitOlustur.cs" />
     <Compile Include="KULLANICI\Entities\KullaniciEntities.cs" />
     <Compile Include="KULLANICI\Pages\AnaSayfa.xaml.cs">
       <DependentUpon>AnaSayfa.xaml</DependentUpon>

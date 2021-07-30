@@ -36,7 +36,7 @@ namespace YukselisApp
         {
             AnaSayfa anaSayfa = new AnaSayfa();
             CC_Genel.Content = anaSayfa;
-
+//bir açıklama
            
         }
 

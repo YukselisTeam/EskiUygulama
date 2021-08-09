@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.1401
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YukselisApp", "YukselisApp\YukselisApp.csproj", "{844C9048-1388-455A-BA43-D65EDDBAC64C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YukselisYetki", "YukselisYetki\YukselisYetki.csproj", "{82F0C292-F6FA-452A-BDF5-1EE0C3709401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YukselisMaliyet", "YukselisMaliyet\YukselisMaliyet.csproj", "{D86B5A5A-565B-4F99-ADD2-8F1CA889D459}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{844C9048-1388-455A-BA43-D65EDDBAC64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{844C9048-1388-455A-BA43-D65EDDBAC64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{844C9048-1388-455A-BA43-D65EDDBAC64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F0C292-F6FA-452A-BDF5-1EE0C3709401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F0C292-F6FA-452A-BDF5-1EE0C3709401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F0C292-F6FA-452A-BDF5-1EE0C3709401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F0C292-F6FA-452A-BDF5-1EE0C3709401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86B5A5A-565B-4F99-ADD2-8F1CA889D459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86B5A5A-565B-4F99-ADD2-8F1CA889D459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86B5A5A-565B-4F99-ADD2-8F1CA889D459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86B5A5A-565B-4F99-ADD2-8F1CA889D459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

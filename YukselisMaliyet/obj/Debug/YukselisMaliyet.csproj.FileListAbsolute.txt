@@ -13,3 +13,19 @@ C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisMaliye
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.csproj.CoreCompileInputs.cache
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.exe
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.pdb
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\bin\Debug\YukselisMaliyet.exe.config
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\bin\Debug\YukselisMaliyet.exe
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\bin\Debug\YukselisMaliyet.pdb
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.csprojAssemblyReference.cache
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\MainWindow.g.cs
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\App.g.cs
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet_MarkupCompile.cache
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet_MarkupCompile.lref
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\MainWindow.baml
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.g.resources
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.Properties.Resources.resources
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.csproj.GenerateResource.cache
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.csproj.CoreCompileInputs.cache
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.sourcelink.json
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.exe
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.pdb

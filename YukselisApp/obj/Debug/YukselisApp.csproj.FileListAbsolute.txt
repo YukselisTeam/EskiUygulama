@@ -101,3 +101,31 @@ C:\Users\bilgisayar\Source\Repos\YukselisApplication\YukselisApp\obj\Debug\Yukse
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.exe
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.pdb
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.exe.config
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\YukselisApp.exe.config
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\YukselisApp.exe
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\YukselisApp.pdb
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.exe
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.pdb
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.exe.config
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.csprojAssemblyReference.cache
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\KULLANICI\Pages\AnaSayfa.g.cs
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\MainWindow.g.cs
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\App.g.cs
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp_MarkupCompile.cache
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp_MarkupCompile.lref
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\App.baml
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\KULLANICI\Pages\AnaSayfa.baml
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\MainWindow.baml
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.g.resources
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.Properties.Resources.resources
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.csproj.GenerateResource.cache
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.csproj.CoreCompileInputs.cache
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.sourcelink.json
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.csproj.CopyComplete
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.exe
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.pdb

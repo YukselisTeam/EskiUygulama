@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Debug\
+C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\obj\Release\
 YukselisMaliyet
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\YukselisMaliyet\App.xaml
 11151548125
 
@@ -16,5 +16,5 @@ C:\Users\Yükseliş Asansör\Desktop\Yukselis Application\YukselisApplication\Yu
 13-1505183044
 MainWindow.xaml;
 
-False
+True
 

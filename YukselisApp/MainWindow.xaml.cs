@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using YukselisApp.KULLANICI.Pages;
+using YukselisMaliyet;
 
 namespace YukselisApp
 {
@@ -29,13 +30,12 @@ namespace YukselisApp
 
   
 
-
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            AnaSayfa anaSayfa = new AnaSayfa();
-            CC_Genel.Content = anaSayfa;
+            //AnaSayfa anaSayfa = new AnaSayfa();
+            //CC_Genel.Content = anaSayfa;
 
            
         }
@@ -44,6 +44,15 @@ namespace YukselisApp
         {
             CC_Menu.Content = GRD_Siparis;
             BTN_Siparis.Background = new SolidColorBrush(Color.FromArgb(0xF, 0xFF, 70, 43));
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            YukselisMaliyet.MainWindow asdasd = new YukselisMaliyet.MainWindow();
+            asdasd.ShowDialog();
+
+    //a/sdsadsadsa
+
         }
     }
 }

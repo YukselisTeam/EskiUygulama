@@ -98,3 +98,6 @@ C:\Users\bilgisayar\Source\Repos\YukselisApplication\YukselisApp\obj\Debug\Yukse
 C:\Users\bilgisayar\Source\Repos\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.csproj.CopyComplete
 C:\Users\bilgisayar\Source\Repos\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.exe
 C:\Users\bilgisayar\Source\Repos\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.pdb
+C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.exe
+C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.pdb
+C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.exe.config

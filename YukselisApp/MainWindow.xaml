@@ -157,7 +157,7 @@
                     <Border Margin="2" Grid.Column="3" BorderThickness="2,0,0,0" BorderBrush="Black">
 
                     </Border>
-                    <Button Foreground="Black" Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Padding="0" Height="Auto" >
+                    <Button Click="Button_Click" Foreground="Black" Style="{StaticResource MaterialDesignFlatButton}" Grid.Column="4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Padding="0" Height="Auto" >
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="Auto"/>
@@ -179,9 +179,9 @@
             
             
 
-            <ContentControl Grid.Row="2" x:Name="CC_Genel">
+            <Frame Grid.Row="2" x:Name="CC_Genel">
 
-            </ContentControl>
+            </Frame>
         </Grid>
        
     </Grid>

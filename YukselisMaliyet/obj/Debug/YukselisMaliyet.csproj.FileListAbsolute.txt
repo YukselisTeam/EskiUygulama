@@ -13,3 +13,4 @@ C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisMaliye
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.csproj.CoreCompileInputs.cache
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.exe
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.pdb
+C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisMaliyet\obj\Debug\YukselisMaliyet.sourcelink.json

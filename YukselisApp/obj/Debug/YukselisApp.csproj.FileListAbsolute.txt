@@ -101,3 +101,4 @@ C:\Users\bilgisayar\Source\Repos\YukselisApplication\YukselisApp\obj\Debug\Yukse
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.exe
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.pdb
 C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\bin\Debug\YukselisMaliyet.exe.config
+C:\Users\Yükseliş Asansör\Documents\GitHub\YukselisApplication\YukselisApp\obj\Debug\YukselisApp.sourcelink.json
